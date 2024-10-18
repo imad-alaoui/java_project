@@ -1,2 +1,8 @@
+/home/dev/java_project/restaurant-simulation/src/main/java/com/example/restaurant/config/WebSocketConfig.java
+/home/dev/java_project/restaurant-simulation/src/main/java/com/example/restaurant/controller/RestaurantSessionHandler.java
+/home/dev/java_project/restaurant-simulation/src/main/java/com/example/restaurant/repository/SessionRepository.java
+/home/dev/java_project/restaurant-simulation/src/main/java/com/example/restaurant/model/RestaurantParams.java
+/home/dev/java_project/restaurant-simulation/src/main/java/com/example/restaurant/model/Customer.java
 /home/dev/java_project/restaurant-simulation/src/main/java/com/example/restaurant/controller/HomeController.java
+/home/dev/java_project/restaurant-simulation/src/main/java/com/example/restaurant/model/RestaurantSession.java
 /home/dev/java_project/restaurant-simulation/src/main/java/com/example/restaurant/RestaurantSimulationApplication.java
